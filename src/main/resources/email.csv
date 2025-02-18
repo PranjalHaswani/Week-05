@@ -1,0 +1,6 @@
+Email,PhoneNumber
+john.doe@example.com,1234567890
+jane.doe@example,1234567890
+valid.email@example.com,9876543210
+invalid-email,1234
+test@domain.com,123456789
