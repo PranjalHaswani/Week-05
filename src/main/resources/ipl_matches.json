@@ -1,0 +1,14 @@
+[
+  {
+    "matchId": "1",
+    "team1": "Mumbai Indians",
+    "team2": "Chennai Super Kings",
+    "playerOfTheMatch": "Rohit Sharma"
+  },
+  {
+    "matchId": "2",
+    "team1": "Delhi Capitals",
+    "team2": "Kolkata Knight Riders",
+    "playerOfTheMatch": "Shreyas Iyer"
+  }
+]
